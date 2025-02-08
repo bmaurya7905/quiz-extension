@@ -1,11 +1,18 @@
 {
   "name": "quiz-extention",
   "displayName": "quiz-extension",
-  "description": "\"A simple quiz extention for VS Code\"",
+  "description": "A simple quiz extension for VS Code",
   "version": "0.0.1",
+  "publisher": "Quiz",
+  "icon": "bulb.png", 
   "engines": {
     "vscode": "^1.97.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/bmaurya7905/quiz-extension.git"
+},
+
   "categories": [
     "Other"
   ],
